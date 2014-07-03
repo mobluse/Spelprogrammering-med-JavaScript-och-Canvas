@@ -1,6 +1,13 @@
 Spelprogrammering med JavaScript och Canvas - Game development with JavaScript and Canvas
 =========================================================================================
 
+For more instructions in Swedish see
+http://spelprogrammering.nu/
+https://www.youtube.com/playlist?list=PLacLTA7npkEaxlsKIL06aLqtLVKIKurRN
+https://www.facebook.com/groups/kids.programming/
+
+You can try this program at http://mobluse.github.io/Spelprogrammering-med-JavaScript-och-Canvas/
+
 Usage of simple.js:
 ------------------
 
